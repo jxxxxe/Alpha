@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "834345107097",
+    "firebase_url": "https://fb-sangsaeng-default-rtdb.firebaseio.com",
+    "project_id": "fb-sangsaeng",
+    "storage_bucket": "fb-sangsaeng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834345107097:android:9023ba136460fbd3fd0208",
+        "android_client_info": {
+          "package_name": "com.example.allergy_db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834345107097-lh5lfq1vvu2ps2u5b48cms7r4lkokf9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoklNE5iFc63gPq8EjY5cwWZ3u5ETsqXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834345107097-lh5lfq1vvu2ps2u5b48cms7r4lkokf9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834345107097:android:840005a3d2c3fe13fd0208",
+        "android_client_info": {
+          "package_name": "org.techtown.allergyInfo.category"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834345107097-lh5lfq1vvu2ps2u5b48cms7r4lkokf9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoklNE5iFc63gPq8EjY5cwWZ3u5ETsqXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834345107097-lh5lfq1vvu2ps2u5b48cms7r4lkokf9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
